@@ -11,7 +11,7 @@ assets:
   uploadDir: src/images
 cmsName: git
 models:
-  article:
+  article_nnew:
     type: page
     label: Article
     folder: blog
