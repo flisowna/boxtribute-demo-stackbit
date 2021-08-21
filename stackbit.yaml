@@ -27,3 +27,5 @@ models:
       - type: text
         name: description
         label: Description
+      - name: ''
+        type: string
