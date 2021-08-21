@@ -21,7 +21,7 @@ models:
       - type: string
         name: title
         label: Title
-      - type: date
+      - type: image
         name: date
         label: Date
       - type: text
