@@ -29,3 +29,7 @@ models:
         label: Description
       - name: ''
         type: string
+        label: ''
+  article_new:
+    type: page
+    label: article_new
