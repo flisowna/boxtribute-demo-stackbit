@@ -23,7 +23,7 @@ models:
         label: Title
       - type: image
         name: image
-        label: Date
+        label: Image
       - type: text
         name: description
         label: Description
