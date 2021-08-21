@@ -13,7 +13,7 @@ cmsName: git
 models:
   article:
     type: page
-    label: Post
+    label: Article
     folder: blog
     urlPath: /{slug}
     filePath: blog/{slug}/index.md
